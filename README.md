@@ -24,5 +24,6 @@ There is an example:
  file->appendFile(file, "Hello World !"); // write 'Hello World !' at this end of the file
 ```
 
-Remember there is many 
+Remember there is many fs like function in this module but not full fs methods. And there is few new methods which was not on fs usefull.
+
 Minimal doc is provide in `Fs.h`.
