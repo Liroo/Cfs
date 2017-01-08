@@ -20,7 +20,7 @@ There is an example:
 ```
  Fs  *file = new(File, "./file");
  
- file.isDirectory(file); // return true if the file is a directory
+ file->isDirectory(file); // return true if the file is a directory
  file->appendFile(file, "Hello World !"); // write 'Hello World !' at this end of the file
 ```
 
